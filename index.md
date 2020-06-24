@@ -18,4 +18,4 @@ and his largely antagonistic experiences with those outside of it (fellow studen
 * imaginativ
 
 ## Quote
-> »Sooner or later, all our games turn into Calvinball.«
+> Calvin: »Sooner or later, all our games turn into Calvinball.«
