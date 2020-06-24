@@ -10,3 +10,9 @@ a "little too intelligent for his age", lacking in restraint and not yet having 
 to "know the things that you shouldn't do."
 The comic strip largely revolves around Calvin's inner world, 
 and his largely antagonistic experiences with those outside of it (fellow students, authority figures and his parents). 
+
+## Character traits
+* intelligent
+* eloquent
+* artistic
+* imaginativ
