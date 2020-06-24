@@ -19,5 +19,3 @@ and his largely antagonistic experiences with those outside of it (fellow studen
 
 ## Quote
 > Calvin: »Sooner or later, all our games turn into Calvinball.«
-
-<img src="https://en.wikipedia.org/wiki/File:Calvin,_of_Calvin_and_Hobbes.png">
